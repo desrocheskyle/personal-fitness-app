@@ -1,9 +1,9 @@
 import { Text, View } from 'react-native';
 
-export default function TodayScreen() {
+export default function AggregatesScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Today Screen</Text>
+      <Text>Aggregates Screen</Text>
     </View>
   );
 }
