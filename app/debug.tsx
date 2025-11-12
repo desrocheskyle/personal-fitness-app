@@ -1,3 +1,4 @@
+/*
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import React, { useEffect, useState } from 'react';
 import { Alert, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
@@ -137,3 +138,4 @@ const styles = StyleSheet.create({
   smallButton: { marginTop: 5 },
   smallText: { color: '#007AFF' },
 });
+*/
